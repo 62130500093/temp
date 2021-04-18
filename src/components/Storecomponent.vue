@@ -1,7 +1,7 @@
 <template>
-<div class="store bg-red-100"> 
-   
-  <div class="bg-image w-full min-h-screen flex flex-wrap justify-center items-center gap-3 py-5">
+<div> 
+  <h1 class="text-xl text-center pt-2">Beverage</h1>
+  <div class="flex flex-wrap justify-center items-center gap-3 py-5">
     <div class="backdrop w-10/12 md:w-1/4 bg-white bg-opacity-10 rounded p-3 text-white border border-gray-300 shadow-lg">
       <!-- header -->
       <div class="w-full mb-3 pb-3 border-b border-1 border-white">

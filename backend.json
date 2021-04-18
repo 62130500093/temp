@@ -1,0 +1,22 @@
+{
+  "beverage": [
+    {
+      "id": 1,
+      "name": "Milk"
+    },
+    {
+      "id": 2,
+      "name": "Green Tea"
+    },
+    {
+      "id": 3,
+      "name": "Americano"
+    }
+  ],
+  "order": [
+   
+  ],
+  "count": {
+    "runNumber": 0
+  }
+}
